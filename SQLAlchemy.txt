@@ -1,0 +1,10 @@
+ORM(Object Relational Mapping)
+
+- Ajuda na abstração das tabelas de banco de dados
+
+SQLite
+
+- Biblioteca em C
+- Possível armazenar dados
+- Muito utilizado em smartphones
+- Não suporta muitas requisições
