@@ -34,7 +34,7 @@ class Pessoas(Base):
         db_session.commit()
 
 
-class Atividade(Base):
+class Atividades(Base):
     __tablename__ = 'atividades'
     id = Column(Integer, primary_key=True)
     nome = Column(String(80))
